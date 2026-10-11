@@ -214,4 +214,4 @@ Mozy is available as a **complete free version** with all features and updates i
 Don’t miss out on the opportunity to secure your important files. **Download Mozy free** today and experience the ease of cloud backups!
 
 ---
-**Last updated:** 2026-10-10 20:24:44 UTC
+**Last updated:** 2026-10-11 00:01:46 UTC
